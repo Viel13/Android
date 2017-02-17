@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JogoTabuada</string>
+    <string name="btnConferir">Check Result</string>
+    <string name="msgVencedor">Vitory</string>
+</resources>
